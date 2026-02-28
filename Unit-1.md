@@ -15,8 +15,6 @@ In probability, an **experiment** is a well-defined process or action that produ
 - Tossing a coin  
 - Throwing (rolling) a die  
 
----
-
 ### 2. Event / Outcome
 
 An **event** or **outcome** is the result of an experiment.
@@ -24,7 +22,6 @@ An **event** or **outcome** is the result of an experiment.
 **Example:**
 - Getting a six when rolling a die  
 - Getting head of tossing a coin.
----
 
 ### 3. Sample Space
 
@@ -57,6 +54,7 @@ P(E) = Number of favorable outcomes/Total number of possible outcomes
 
 P(E) = 1/2 = 0.5
 
+---
 ### Example 2: Even Number on a Dice
 
 Experiment: Roll a fair six-sided dice.
@@ -76,7 +74,7 @@ Probability of getting an even number:
 
 P(A) = 3 / 6 = 1 / 2
 
-
+---
 ### Example 3: Face Card from a Deck
 
 Experiment: Draw one card from a standard deck of 52 cards.
@@ -95,7 +93,7 @@ Event (B): Getting a face card
 Probability of getting a face card:
 
 P(B) = 12 / 52 = 3 / 13
-
+---
 # Cards
 <img width="3008" height="1361" alt="image" src="https://github.com/user-attachments/assets/bd26c750-433d-407c-862a-865205a29971" />
 
@@ -124,8 +122,6 @@ So:
 4 suits × 13 cards = 52 cards
 ```
 
----
-
 ## 2️⃣ Ranks (Card Values)
 
 Each suit contains the same 13 ranks:
@@ -142,8 +138,6 @@ So in the full deck:
 - 4 Jacks  
 - 4 of every number  
 
----
-
 # 🧠 Simple Probability Examples with Cards
 
 When you pick **1 card randomly**, every card has equal chance.
@@ -151,8 +145,6 @@ When you pick **1 card randomly**, every card has equal chance.
 ```
 Total possible outcomes = 52
 ```
-
----
 
 ## Example 1: Probability of getting a King
 
@@ -162,8 +154,6 @@ There are 4 Kings.
 P(King) = 4 / 52 = 1 / 13
 ```
 
----
-
 ## Example 2: Probability of getting a Heart
 
 There are 13 Hearts.
@@ -172,8 +162,6 @@ There are 13 Hearts.
 P(Heart) = 13 / 52 = 1 / 4
 ```
 
----
-
 ## Example 3: Probability of getting King of Hearts
 
 Only one such card exists.
@@ -181,8 +169,6 @@ Only one such card exists.
 ```
 P(King of Hearts) = 1 / 52
 ```
-
----
 
 # 🎯 Important Concepts
 
@@ -200,8 +186,6 @@ Total face cards:
 3 per suit × 4 suits = 12
 ```
 
----
-
 ## 🔹 Red Cards
 
 Red suits are:
@@ -214,8 +198,6 @@ Red suits are:
 P(Red) = 26 / 52 = 1 / 2
 ```
 
----
-
 ## 🔹 Black Cards
 
 Black suits are:
@@ -226,10 +208,6 @@ Black suits are:
 ```
 26 black cards
 ```
-
----
-
-
 
 # 1.3 Approaches of Probability
 
@@ -321,8 +299,6 @@ P(A ∪ B) represents the probability that:
 
 P(A ∩ B) represents the probability that:
 - Both event A and event B occur at the same time.
-
----
 
 ### Example 1: Non-Mutually Exclusive Events (Dice)
 
