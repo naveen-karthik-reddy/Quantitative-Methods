@@ -98,22 +98,75 @@ P(B) = 12 / 52 = 3 / 13
 
 # 1.3 Approaches of Probability
 
-- Classical
-- Empirical
-- Subjective
+1. Classical (Theoretical) Probability  
+2. Empirical (Experimental) Probability  
+3. Subjective Probability  
 
-## Classical
+## 1️⃣ Classical Probability (Theoretical Approach)
 
+### Core Idea
+Probability is derived from **mathematical reasoning**, assuming all outcomes are **equally likely**.
 
+````
+P(E) = Number of favourable outcomes / Total number of possible outcomes
+````
 
+### Key Assumption
+- Every outcome has equal probability.
+- No real-world data is required.
+- Purely model-based.
 
+### Typical Use Cases
+- Dice rolls  
+- Coin tosses  
+- Card games  
+- Random draws  
 
+## 2️⃣ Empirical Probability (Experimental Approach)
 
+### Core Idea
+Probability is calculated using **actual observed data** from repeated trials.
 
+````
+P(E) = Number of times event occurs / Total number of trials
+````
+### Key Characteristics
+- Data-driven
+- Based on historical records
+- Improves with more observations
+- Reflects real-world uncertainty
 
+### Example
+If a machine fails 12 times in 300 days:
 
+P(Failure) = 12 / 300 = 0.04
 
+As the number of trials increases, empirical probability approaches true probability  
 
+## 3️⃣ Subjective Probability
+
+### Core Idea
+Probability is based on **personal judgment, expertise, intuition, or belief**, not necessarily on data.
+
+### Characteristics
+- Opinion-based
+- Expert-driven
+- Context-sensitive
+- Can vary between individuals
+
+### Business Example
+A marketing manager estimates:
+- 70% chance campaign increases sales  
+
+Based on:
+- Past experience  
+- Market trends  
+- Customer feedback  
+
+### Limitation
+- Not objectively calculated
+- May differ across experts
+- Can be biased
 
 
 
