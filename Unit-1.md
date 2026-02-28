@@ -560,6 +560,9 @@ p(B) - Total probability of event B happening
 
 ````
 
+<img width="1293" height="395" alt="image" src="https://github.com/user-attachments/assets/f9dae460-faca-4636-b853-fe2b9b3441fc" />
+
+
 
 
 # Key Formulas and Terms
