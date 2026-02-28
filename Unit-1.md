@@ -389,7 +389,6 @@ P(A) = Probability of event A
 
 P(B) = Probability of event B
 
----
 
 ## 1️⃣ Independent Events
 
@@ -433,14 +432,13 @@ P(A∩B) = 9/25
 Two events are **dependent** if the occurrence of one **affects** the other.
 
 ### Formula
-
-P(A∩B) = P(A) × P(B/A)
-
+```
+P(A∩B) = P(A)×P(B/A) = P(B)×P(A/B)
+```
 Where:
 
 - **P(B/A) = Probability of B given that A has already occurred**
 
----
 
 ### 🎲 Example (Without Replacement – Dependent Case)
 
