@@ -1,15 +1,10 @@
-# Quantitative Methods
-
-## Purpose of this subject
-- TODO: Gather some information here.
-
-# Unit - 1
-
-# Standard Terms Used in Probability
-## Probability
+# 1.1 Introduction
 - **Probability** is the possibility of an uncertain event occurring.
 - Uncertainity simply means not knowing what will happen
 - Ex: Tossing a coin, Rolling a dice, pick a card from deck.
+
+
+# 1.2 Standard Terms Used in Probability
 
 ## Standard Terms
 ### 1. Experiment
@@ -101,6 +96,13 @@ Probability of getting a face card:
 
 P(B) = 12 / 52 = 3 / 13
 
+# 1.3 Approaches of Probability
+
+- Classical
+- Empirical
+- Subjective
+
+## Classical
 
 
 
