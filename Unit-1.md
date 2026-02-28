@@ -534,15 +534,34 @@ Conditional probability = Joint probability × Marginal probability
 
 <img width="693" height="400" alt="image" src="https://github.com/user-attachments/assets/539d5421-90dd-483e-8906-e8b3358710dc" />
 
+# Bayes Theorm
+Bayes’ Theorem updates probability when new evidence is observed.
+
+More precisely, it:
+
+## 1️⃣ Reverses Conditional Probability
+````
+It helps compute:
+
+P(A | B)
+
+from
+
+P(B | A)
+````
+
+````
+P(A/B) = (P(B/A) × p(A))/P(B)
+
+P(A/B) - Probability of event A happening, given that B has occured
+p(B/A) - Probability of event B happening, given that A has occured.
+P(A) - prior probability of event A
+p(B) - Total probability of event B happening 
+
+````
 
 
 
+# Key Formulas and Terms
 
-
-
-
-
-
-
-
-
+<img width="732" height="384" alt="image" src="https://github.com/user-attachments/assets/337b679e-c438-45de-8964-723cab7ef137" />
