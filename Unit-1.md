@@ -386,6 +386,7 @@ where:
 P(A∩B) = Probability that both A and B happen
 
 P(A) = Probability of event A
+
 P(B) = Probability of event B
 
 ---
@@ -422,7 +423,7 @@ P(A) = 3/5
 
 P(B) = 3/5
 
-P(A∩B) = 3/5 * 3/5
+P(A∩B) = 3/5 × 3/5
 ​
 P(A∩B) = 9/25
 ---
@@ -433,7 +434,7 @@ Two events are **dependent** if the occurrence of one **affects** the other.
 
 ### Formula
 
-P(A∩B)=P(A)×P(B/A)
+P(A∩B) = P(A) × P(B/A)
 
 Where:
 
@@ -467,8 +468,11 @@ After removing one red ball:
 P(B/A) = 2/4
 
 P(A∩B) = 2/4
-P(A∩B) = 3/5 * 2/4
+
+P(A∩B) = 3/5 × 2/4
+
 P(A∩B) = 6/20
+
 P(A∩B) = 3/10
 
 ---
