@@ -96,6 +96,141 @@ Probability of getting a face card:
 
 P(B) = 12 / 52 = 3 / 13
 
+# Cards
+<img width="3008" height="1361" alt="image" src="https://github.com/user-attachments/assets/bd26c750-433d-407c-862a-865205a29971" />
+
+# 🎴 Basic Playing Cards (Standard Deck)
+
+A **standard deck** has:
+
+```
+52 cards
+```
+
+---
+
+## 1️⃣ Suits (4 Types)
+
+There are **4 suits**, each with 13 cards:
+
+- ♠ Spades  
+- ♥ Hearts  
+- ♦ Diamonds  
+- ♣ Clubs  
+
+So:
+
+```
+4 suits × 13 cards = 52 cards
+```
+
+---
+
+## 2️⃣ Ranks (Card Values)
+
+Each suit contains the same 13 ranks:
+
+```
+A, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K
+```
+
+So in the full deck:
+
+- 4 Aces  
+- 4 Kings  
+- 4 Queens  
+- 4 Jacks  
+- 4 of every number  
+
+---
+
+# 🧠 Simple Probability Examples with Cards
+
+When you pick **1 card randomly**, every card has equal chance.
+
+```
+Total possible outcomes = 52
+```
+
+---
+
+## Example 1: Probability of getting a King
+
+There are 4 Kings.
+
+```
+P(King) = 4 / 52 = 1 / 13
+```
+
+---
+
+## Example 2: Probability of getting a Heart
+
+There are 13 Hearts.
+
+```
+P(Heart) = 13 / 52 = 1 / 4
+```
+
+---
+
+## Example 3: Probability of getting King of Hearts
+
+Only one such card exists.
+
+```
+P(King of Hearts) = 1 / 52
+```
+
+---
+
+# 🎯 Important Concepts
+
+## 🔹 Face Cards
+
+Face cards are:
+
+- Jack (J)
+- Queen (Q)
+- King (K)
+
+Total face cards:
+
+```
+3 per suit × 4 suits = 12
+```
+
+---
+
+## 🔹 Red Cards
+
+Red suits are:
+
+- Hearts
+- Diamonds
+
+```
+13 + 13 = 26 red cards
+P(Red) = 26 / 52 = 1 / 2
+```
+
+---
+
+## 🔹 Black Cards
+
+Black suits are:
+
+- Spades
+- Clubs
+
+```
+26 black cards
+```
+
+---
+
+
+
 # 1.3 Approaches of Probability
 
 1. Classical (Theoretical) Probability  
@@ -168,6 +303,8 @@ Based on:
 - May differ across experts
 - Can be biased
 
+
+# 1.4 Addition Theorm
 
 
 
