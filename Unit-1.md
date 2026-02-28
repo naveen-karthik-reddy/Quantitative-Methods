@@ -43,10 +43,9 @@ The **sample space** is the set of all possible outcomes of a random experiment.
 
 
 - Probability of event E occurring P(E)
-\[
-P(A) = \frac{\text{Number of favorable outcomes}}{\text{Total number of possible outcomes}}
-\]
-
+````
+P(E) = Number of favorable outcomes/Total number of possible outcomes
+````
 
 
 
