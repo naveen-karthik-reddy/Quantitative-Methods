@@ -354,13 +354,21 @@ P(A ∪ B) = 3/6 + 3/6
 P(A ∪ B) = 6/6 = 1
 
 
+# 1.5 Common Event Terms and their meaning
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/be3cd53c-7eeb-434d-9c3d-85242d97b1a4" />
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d7c1defd-7f9c-45ec-bab4-895b2afb259d" />
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/40dd539b-eeb3-429b-a250-6db2fce0f611" />
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4bd2dc15-bee5-426b-acf9-e21b3a48cab4" />
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ed1aa42b-f0a4-447a-8c69-9e5055b73eaa" />
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1b495a79-e931-445d-a3ed-0f1fa27888db" />
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6735bd8d-6057-4d4c-9f76-bd5d163680a1" />
 
 
 
