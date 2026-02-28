@@ -434,11 +434,11 @@ Two events are **dependent** if the occurrence of one **affects** the other.
 ### Formula
 ```
 P(A∩B) = P(A)×P(B/A) = P(B)×P(A/B)
-p(A/B) or p(B/A) is called **conditional probability**
 ```
 Where:
 
-- **P(B/A) = Probability of B given that A has already occurred**
+- **P(B/A) = Probability of B given that A has already occurred**\
+- p(A/B) or p(B/A) is called **conditional probability**
 
 
 ### 🎲 Example (Without Replacement – Dependent Case)
