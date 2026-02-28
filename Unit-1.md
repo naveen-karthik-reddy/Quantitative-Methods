@@ -474,4 +474,57 @@ P(A∩B) = 6/20
 
 P(A∩B) = 3/10
 
----
+# Contingency tables, marginal, conditional and joint probabilities
+## 1) Marginal Probability
+
+Marginal probability is the probability of a single event occurring, without considering any other event.
+````
+Notation:
+P(A)
+
+Example:
+If 50 out of 100 students are male, then
+
+P(Male) = 50 / 100 = 0.5
+````
+
+## 2) Joint Probability
+Joint probability is the probability that two events occur together.
+````
+Notation:
+P(A ∩ B)
+
+Example:
+If 30 out of 100 students are male and play sports, then
+
+P(Male ∩ Sports) = 30 / 100 = 0.3
+
+This represents the overlap between two events.
+````
+
+## 3) Conditional Probability
+Conditional probability is the probability of one event occurring given that another event has already occurred.
+
+````
+Notation:
+P(A | B)
+
+Formula:
+P(A | B) = P(A ∩ B) / P(B), where P(B) ≠ 0
+
+Example:
+If 40 students play sports and 30 of them are male, then
+
+P(Male | Sports) = 30 / 40 = 0.75
+````
+
+## Relationship Between Them
+
+Joint probability connects marginal and conditional probability:
+
+````
+P(A ∩ B) = P(A | B) × P(B)
+Conditional probability = Joint probability × Marginal probability
+````
+
+
