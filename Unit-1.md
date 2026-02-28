@@ -306,9 +306,76 @@ Based on:
 
 # 1.4 Addition Theorm
 
+The addition theorem of probability is used to find the probability that **at least one** of two events (A or B) occurs.
 
+For any two events:
 
+P(A ∪ B) = P(A) + P(B) − P(A ∩ B)
 
+The term P(A ∩ B) is subtracted to avoid double-counting the outcomes common to both events.
+
+P(A ∪ B) represents the probability that:
+- Event A occurs, OR
+- Event B occurs, OR
+- Both A and B occur.
+
+P(A ∩ B) represents the probability that:
+- Both event A and event B occur at the same time.
+
+---
+
+### Example 1: Non-Mutually Exclusive Events (Dice)
+
+Experiment: Roll a fair six-sided die.
+
+Sample Space:
+{1, 2, 3, 4, 5, 6}
+
+Let:
+A = Getting an even number = {2, 4, 6}
+B = Getting a number greater than 3 = {4, 5, 6}
+
+P(A) = 3/6  
+P(B) = 3/6  
+
+Common outcomes (A ∩ B):
+{4, 6}
+
+P(A ∩ B) = 2/6
+
+Using the formula:
+
+P(A ∪ B) = P(A) + P(B) − P(A ∩ B)
+
+P(A ∪ B) = 3/6 + 3/6 − 2/6  
+P(A ∪ B) = 4/6 = 2/3
+
+So, the probability of getting an even number OR a number greater than 3 is 2/3.
+
+### Example 2: Odd and Even (Mutually Exclusive)
+
+Experiment: Roll a fair die.
+
+Sample Space:
+{1, 2, 3, 4, 5, 6}
+
+Let:
+A = Odd numbers = {1, 3, 5}  
+B = Even numbers = {2, 4, 6}
+
+P(A) = 3/6  
+P(B) = 3/6  
+
+A ∩ B = ∅  
+P(A ∩ B) = 0  
+
+Since a number cannot be both odd and even, they are mutually exclusive.
+
+Formula:
+P(A ∪ B) = P(A) + P(B)
+
+P(A ∪ B) = 3/6 + 3/6  
+P(A ∪ B) = 6/6 = 1
 
 
 
