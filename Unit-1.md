@@ -526,5 +526,23 @@ Joint probability connects marginal and conditional probability:
 P(A ∩ B) = P(A | B) × P(B)
 Conditional probability = Joint probability × Marginal probability
 ````
+## Contingency Tables
+
+<img width="481" height="178" alt="image" src="https://github.com/user-attachments/assets/2b6e3149-3a85-499f-9138-27414070f916" />
+
+<img width="632" height="178" alt="image" src="https://github.com/user-attachments/assets/e35dbc38-f5c3-49ee-adeb-e36658954d60" />
+
+<img width="693" height="400" alt="image" src="https://github.com/user-attachments/assets/539d5421-90dd-483e-8906-e8b3358710dc" />
+
+
+
+
+
+
+
+
+
+
+
 
 
