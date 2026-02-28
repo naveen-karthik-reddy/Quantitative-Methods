@@ -358,30 +358,117 @@ P(A ∪ B) = 6/6 = 1
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/be3cd53c-7eeb-434d-9c3d-85242d97b1a4" />
 
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d7c1defd-7f9c-45ec-bab4-895b2afb259d" />
+
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/40dd539b-eeb3-429b-a250-6db2fce0f611" />
 
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4bd2dc15-bee5-426b-acf9-e21b3a48cab4" />
 
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1b495a79-e931-445d-a3ed-0f1fa27888db" />
+
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6735bd8d-6057-4d4c-9f76-bd5d163680a1" />
 
 
+# Multiplication Theorem of Probability
 
+The **Multiplication Theorem** is used to find the probability that **two events occur together**.
 
+In simple terms, it helps us calculate:
 
+**𝑃(𝐴∩𝐵)**
 
+where:
+P(A∩B) = Probability that both A and B happen
 
+P(A) = Probability of event A
+P(B) = Probability of event B
 
+---
 
+## 1️⃣ Independent Events
 
+Two events are **independent** if the occurrence of one does **not affect** the other.
 
+### Formula
 
+P(A∩B)=P(A)×P(B)
 
+---
 
+### 🎲 Example (With Replacement – Independent Case)
 
+A bag contains:
 
+- 3 Red balls  
+- 2 Black balls  
 
+Total balls = 5  
 
+We draw one ball, **replace it**, and draw again.
+
+Let:
+
+- A = First ball is Red
+- B = Second ball is Red
+
+Since the first ball is replaced, the second draw is not affected.
+
+P(A) = 3/5
+
+P(B) = 3/5
+
+P(A∩B) = 3/5 * 3/5
+​
+P(A∩B) = 9/25
+---
+
+## 2️⃣ Dependent Events
+
+Two events are **dependent** if the occurrence of one **affects** the other.
+
+### Formula
+
+P(A∩B)=P(A)×P(B/A)
+
+Where:
+
+- **P(B/A) = Probability of B given that A has already occurred**
+
+---
+
+### 🎲 Example (Without Replacement – Dependent Case)
+
+A bag contains:
+
+- 3 Red balls  
+- 2 Black balls  
+
+Total balls = 5  
+
+We draw two balls **without replacement**.
+
+Let:
+
+- A = First ball is Red  
+- B = Second ball is Red  
+
+P(A) = 3/5
+
+After removing one red ball:
+
+- Remaining balls = 4  
+- Remaining red balls = 2  
+
+P(B/A) = 2/4
+
+P(A∩B) = 2/4
+P(A∩B) = 3/5 * 2/4
+P(A∩B) = 6/20
+P(A∩B) = 3/10
+
+---
